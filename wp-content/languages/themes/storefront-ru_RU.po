@@ -1,0 +1,470 @@
+# Translation of Storefront in Russian
+# This file is distributed under the same license as the Storefront package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-24 02:41:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Storefront\n"
+
+#. Theme Name of the plugin/theme
+msgid "Storefront"
+msgstr "Storefront"
+
+#. Description of the plugin/theme
+msgid "Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooThemes, it features a deep integration with our market leading WooCommerce plugin, several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love it's lean and extensible codebase making it a joy to customise and extend. Looking for a WooCommerce theme? Look no further!"
+msgstr "Storefront — отличная тема для вашего проекта на WooCommerce. Будучи созданной в WooThemes, она полностью совместима с нашим лидирующим плагином WooCommerce, а также включает в себя несколько вариантов разметки и цветовых схем для настройки вашего магазина, несколько областей для виджетов, адаптивный дизайн и многое другое. Разработчикам понравится её простой и расширяемый код, который очень легко настраивается и дополняется. Ищете тему для WooCommerce? Вы её нашли!"
+
+#: inc/functions/setup.php:114
+msgid "Below Header"
+msgstr "Под заголовком"
+
+#: inc/customizer/controls/more.php:20
+msgid "Enjoying %s?"
+msgstr "Нравится %s?"
+
+#: inc/admin/welcome-screen/sections/intro.php:57
+msgid "Customizer settings"
+msgstr "Настройки Customizer"
+
+#: inc/admin/welcome-screen/sections/intro.php:33
+msgid "Recent News"
+msgstr "Последние новости"
+
+#: inc/admin/welcome-screen/sections/intro.php:53
+msgid "Featured Docs"
+msgstr "Рекомендуемая документация"
+
+#: inc/admin/welcome-screen/sections/intro.php:30
+msgid "Latest %s news"
+msgstr "Свежие новости от %s"
+
+#: inc/admin/welcome-screen/sections/intro.php:55
+msgid "Installation &amp; configuration"
+msgstr "Установка и настройка"
+
+#: inc/admin/welcome-screen/sections/intro.php:56
+msgid "FAQ"
+msgstr "ЧАВО"
+
+#: inc/admin/welcome-screen/sections/enhance.php:50
+msgid "Child themes"
+msgstr "Дочерние темы"
+
+#: inc/admin/welcome-screen/sections/contribute.php:16
+msgid "Suggest a feature"
+msgstr "Предложить функцию"
+
+#: inc/admin/welcome-screen/sections/intro.php:23
+msgid "%s is activated"
+msgstr "%s активирован"
+
+#: inc/admin/welcome-screen/sections/contribute.php:22
+msgid "An %s project"
+msgstr "Проект от %s"
+
+#: inc/admin/welcome-screen/sections/enhance.php:12
+msgid "Enhance %s"
+msgstr "Улучшить %s"
+
+#: inc/admin/welcome-screen/sections/enhance.php:83
+msgid "View all %s child themes &rarr;"
+msgstr "Посмотреть все дочерние темы %s &rarr;"
+
+#: inc/admin/welcome-screen/sections/enhance.php:30
+msgid "View all %s extensions &rarr;"
+msgstr "Посмотреть все расширения %s &rarr;"
+
+#: inc/admin/welcome-screen/sections/enhance.php:14
+msgid "Take a look at our range of extensions that compliment and extend %s functionality."
+msgstr "Посмотрите наш набор расширений, которые улучшают и дополняют функциональность %s."
+
+#: inc/admin/welcome-screen/sections/enhance.php:51
+msgid "Take a look at our range of child themes for %s that allow you to easily change the look of your store to suit a specific industry."
+msgstr "Посмотрите наш набор дочерних тем для %s, с помощью которых можно легко изменить внешний вид магазина для конкретной ниши."
+
+#: inc/admin/welcome-screen/sections/enhance.php:38
+msgid "There are a number of free plugins available for %s on the WordPress.org %splugin repository%s. Here are just a few:"
+msgstr "Бесплатные плагины для %s можно найти %sкаталоге плагинов%s WordPress.org. Вот некоторые из них:"
+
+#: inc/admin/welcome-screen/sections/intro.php:14
+msgid "%sEnjoying %s?%s Why not %sleave a review%s on WordPress.org? We'd really appreciate it!"
+msgstr "%sВам нравится тема %s?%s Хотите %sоставить о ней отзыв%s на WordPress.org? Мы будем очень признательны!"
+
+#: inc/admin/welcome-screen/sections/intro.php:18
+msgid "Built to enrich your %s store"
+msgstr "Создана, чтобы улучшить ваш магазин на %s"
+
+#: inc/admin/welcome-screen/sections/contribute.php:11
+msgid "Contribute to Storefront"
+msgstr "Участие в развитии Storefront"
+
+#: inc/admin/welcome-screen/sections/contribute.php:17
+msgid "Please suggest and vote on ideas at the %s%s Ideas board%s. The most popular ideas will see prioritised development."
+msgstr "Предлагайте и голосуйте за идеи на %sфоруме идей %s%s. Наиболее популярные предложения будут реализованы раньше других."
+
+#: inc/admin/welcome-screen/sections/intro.php:25
+msgid "Install %s"
+msgstr "Установить %s"
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr "Новинки"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr "Скидки"
+
+#: inc/customizer/controls.php:124
+msgid "Header background image"
+msgstr "Фоновое изображение заголовка"
+
+#: inc/admin/welcome-screen/sections/enhance.php:36
+msgid "Install free plugins"
+msgstr "Установить бесплатные плагины"
+
+#: inc/admin/welcome-screen/sections/enhance.php:55
+#: inc/admin/welcome-screen/sections/enhance.php:62
+msgid "Proshop Child Theme"
+msgstr "Дочерняя тема Proshop"
+
+#: inc/admin/welcome-screen/sections/enhance.php:77
+msgid "Free!"
+msgstr "Бесплатно!"
+
+#: inc/structure/post.php:116
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/structure/post.php:115
+msgctxt "Next post"
+msgid "Next"
+msgstr "Далее"
+
+#: 404.php:54
+msgid "Popular Products"
+msgstr "Популярные товары"
+
+#: 404.php:22
+msgid "Nothing was found at this location. Try searching, or check out the links below."
+msgstr "По данному адресу ничего не найдено. Воспользуйтесь поиском или посмотрите ссылки ниже."
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Главная страница"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "на всю ширину"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/woocommerce/template-tags.php:19
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d товар"
+msgstr[1] "%d товара"
+msgstr[2] "%d товаров"
+
+#: inc/woocommerce/template-tags.php:18
+msgid "View your shopping cart"
+msgstr "Посмотреть вашу корзину"
+
+#: 404.php:45 inc/structure/template-tags.php:26
+msgid "Product Categories"
+msgstr "Категории товаров"
+
+#: inc/structure/template-tags.php:67
+msgid "Recent Products"
+msgstr "Последние товары"
+
+#: inc/structure/template-tags.php:107 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Рекомендуемые товары"
+
+#: inc/structure/template-tags.php:148
+msgid "Top Rated Products"
+msgstr "Лучшие товары"
+
+#: inc/structure/template-tags.php:187
+msgid "On Sale"
+msgstr "Распродажа"
+
+#: inc/structure/post.php:159
+msgctxt "post author"
+msgid "by %s"
+msgstr "автором %s"
+
+#: inc/structure/post.php:154
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/structure/post.php:99
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/structure/post.php:99
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/structure/post.php:99
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/structure/post.php:90
+msgid "Tags: "
+msgstr "Теги: "
+
+#: inc/structure/post.php:77
+msgid "Categories: "
+msgstr "Рубрики:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/structure/post.php:72 inc/structure/post.php:85
+msgid ", "
+msgstr ", "
+
+#: inc/structure/post.php:45
+msgid "Continue reading %s"
+msgstr "Читать далее %s"
+
+#: inc/structure/page.php:36 inc/structure/post.php:51
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: inc/structure/header.php:107
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/structure/header.php:106
+msgid "Skip to navigation"
+msgstr "Перейти к навигации"
+
+#: inc/structure/header.php:84
+msgid "Secondary Navigation"
+msgstr "Дополнительное меню"
+
+#: inc/structure/header.php:55
+msgid "Navigation"
+msgstr "Навигация"
+
+#: inc/structure/header.php:54
+msgid "Primary Navigation"
+msgstr "Основное меню"
+
+#: inc/structure/footer.php:60
+msgid "%1$s designed by %2$s."
+msgstr "Тема %1$s создана в %2$s."
+
+#: inc/structure/comments.php:59
+msgid "Edit"
+msgstr "Изменить"
+
+#: inc/structure/comments.php:43
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: inc/structure/comments.php:40
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: inc/functions/setup.php:127
+msgid "Footer %d"
+msgstr "Подвал %d"
+
+#: inc/functions/setup.php:129
+msgid "Widgetized Footer Region %d."
+msgstr "Область виджетов подвала %d."
+
+#: inc/functions/setup.php:104
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: inc/functions/setup.php:62
+msgid "Handheld Menu"
+msgstr "Меню для мобильных устройств"
+
+#: inc/functions/setup.php:61
+msgid "Secondary Menu"
+msgstr "Дополнительное меню"
+
+#: inc/functions/setup.php:60
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/customizer/controls.php:358
+msgid "Looking for more options?"
+msgstr "Ищете дополнительные варианты?"
+
+#: inc/customizer/controls.php:348
+msgid "More"
+msgstr "Больше"
+
+#: inc/customizer/controls.php:335
+msgid "General Layout"
+msgstr "Общая разметка"
+
+#: inc/customizer/controls.php:323
+msgid "Layout"
+msgstr "Разметка"
+
+#: inc/customizer/controls.php:254
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: inc/customizer/controls.php:298
+msgid "Alternate button background color"
+msgstr "Цвет фона альтернативной кнопки"
+
+#: inc/customizer/controls.php:313
+msgid "Alternate button text color"
+msgstr "Цвет текста альтернативной кнопки"
+
+#: inc/customizer/controls.php:256
+msgid "Customise the look & feel of your web site buttons."
+msgstr "Настроить кнопки вашего сайта."
+
+#: inc/customizer/controls.php:182
+msgid "Customise the look & feel of your web site footer."
+msgstr "Настроить подвал вашего сайта."
+
+#: inc/customizer/controls.php:180
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer/controls.php:170 inc/customizer/controls.php:243
+msgid "Link color"
+msgstr "Цвет ссылок"
+
+#: inc/customizer/controls.php:138 inc/customizer/controls.php:195
+#: inc/customizer/controls.php:268
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: inc/customizer/controls.php:110
+msgid "Looking to add a logo? Install the %sJetpack%s plugin! %sRead more%s."
+msgstr "Хотите добавить логотип? Установите плагин %sJetpack%s! %sПодробнее%s."
+
+#: inc/customizer/controls.php:103
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer/controls.php:59 inc/customizer/controls.php:211
+msgid "Heading color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer/controls.php:75 inc/customizer/controls.php:154
+#: inc/customizer/controls.php:227 inc/customizer/controls.php:283
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: inc/customizer/controls.php:90
+msgid "Link / accent color"
+msgstr "Цвет ссылки / выделения"
+
+#: inc/customizer/controls.php:45
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/customizer/controls.php:28
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer/controls.php:24
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/controls/more.php:23
+msgid "Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr "Хотите оставить о нас отзыв на %sWordPress.org%s? Мы будем очень признательны!"
+
+#: inc/customizer/controls/more.php:16
+msgid "There's a range of %s extensions available to put additional power in your hands. Check out the %s%s%s page in your dashboard for more information."
+msgstr "У нас есть набор расширений для %s, которые дадут вам больше возможностей. Подробности можно узнать на странице %s%s%s в панели управления."
+
+#: inc/admin/welcome-screen/welcome-screen.php:45
+msgid "Get started with Storefront"
+msgstr "Начало работы с темой Storefront"
+
+#: inc/admin/welcome-screen/sections/contribute.php:12
+msgid "Found a bug? Want to contribute a patch or create a new feature? %sGitHub is the place to go!%s Or would you like to translate %s into your language? %sGet involved on WordPress.org%s."
+msgstr "Нашли ошибку? Хотите поделиться патчем или создать новую функцию? Это можно сделать на %sGitHub%s! Хотите перевести %s на ваш язык? %sПрисоединяйтесь на WordPress.org%s."
+
+#: inc/admin/welcome-screen/welcome-screen.php:44
+msgid "Thanks for choosing Storefront! You can read hints and tips on how get the most out of your new theme on the %swelcome screen%s."
+msgstr "Благодарим вас за выбор Storefront! Советы и подсказки о том, как получить максимальную отдачу от вашей новой темы, можно найти на %sэкране приветствия%s."
+
+#: inc/admin/welcome-screen/sections/enhance.php:76
+msgid "Boutique Child Theme"
+msgstr "Дочерняя тема Boutique"
+
+#: inc/admin/welcome-screen/sections/intro.php:20
+msgid "Although %s works fine as a regular WordPress theme, it really shines when used for an online store. Install %s and start selling now."
+msgstr "Хотя %s можно использовать и как обычную тему для WordPress, больше всего она подходит для интернет-магазина. Установите %s и приступите к продаже."
+
+#: inc/admin/welcome-screen/sections/enhance.php:69
+msgid "Galleria Child Theme"
+msgstr "Дочерняя тема Galleria"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:35 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:34 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:33 comments.php:51
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Theme URI of the plugin/theme
+msgid "http://www.woothemes.com/storefront"
+msgstr "http://www.woothemes.com/storefront"
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr "http://www.woothemes.com"
