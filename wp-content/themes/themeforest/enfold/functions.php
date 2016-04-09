@@ -517,3 +517,5 @@ require_once( 'functions-enfold.php');
  * add option to edit elements via css class
  */
 // add_theme_support('avia_template_builder_custom_css');
+
+add_theme_support( 'avia_custom_shop_page' );
